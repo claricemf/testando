@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nome: MyString
+  dia: 2012-11-22
+
+two:
+  nome: MyString
+  dia: 2012-11-22
